@@ -1,0 +1,9 @@
+JSON also known as JavaScript Object Notation is used to send information between anything though
+key value pairs
+1. Data is in name-value pairs
+2. Data is seperated by commas
+3. Objects are held in curly braces
+4. Arrays are held in square braces
+
+JSON keys or name use double quotes (That means they must be strings)
+data types
